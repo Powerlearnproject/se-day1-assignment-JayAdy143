@@ -34,7 +34,7 @@ Version Control Systems (VCS) is a Software tool for tracking changes to source 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 Changing Requirements
 Tight Deadlines
-Technical Debt: 
+Technical Debt 
 Strategies for overcoming challenges include effective communication, agile methodologies, prioritization of tasks, and regular reassessment of project goals and timelines.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
